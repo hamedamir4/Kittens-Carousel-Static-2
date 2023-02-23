@@ -1,0 +1,13 @@
+AWSTemplateFormatVersion: 2010-09-09
+Description: |
+   Cloudformation Template for kittens carousel static website deploy on s3 through cloudfront and route 53
+
+
+Parameters:
+  
+   
+  
+Resources:
+  
+  
+Outputs:
